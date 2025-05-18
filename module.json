@@ -1,0 +1,15 @@
+{
+  "id": "vaguefinder",
+  "title": "Vaguefinder",
+  "description": "Pathfinding for the Pathfinder 2e system.",
+  "authors": [
+    {
+    "name": "vaguelyof"
+    }
+  ],
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  }
+}
