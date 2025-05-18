@@ -11,5 +11,8 @@
   "compatibility": {
     "minimum": "12",
     "verified": "13"
-  }
+  },
+  "scripts": [
+    "scripts/index.js"
+  ]
 }
